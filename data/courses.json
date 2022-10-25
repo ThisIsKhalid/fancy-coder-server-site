@@ -7,8 +7,9 @@
         "description": "In this project, you will develop an HTML resource sheet and a very basic sample webpage. You will use VS code editor to write your code, and the Chrome browser to display the resulting webpage.You will learn how to add content to your webpage using the basic content elements. While gaining experience with the VS code editor, you will build an HTML resource webpage. You will use and include common HTML tags and elements and learn what each does to help present your document in a web browser. This course starts at the beginning with HTML; and it will prepare you for the next steps in your Web Development journey, and for future courses where you can expand your knowledge of HTML elements, and learn to apply cascading style sheets.",
         "ratings": "4.7",
         "enrolled": "5321",
-        "level": "",
-        "time": ""
+        "level": "Beginner",
+        "time": "13",
+        "views": "361212"
     },
     {
         "id": "02",
@@ -18,8 +19,9 @@
         "description": "In this beginning-level course you will explore the use of CSS (Cascading Style Sheets) in web development. As HTML is used to add content to a website, CSS is used to make that content visually appealing to website visitors. This course focuses on improvements that can be made to the text on a website's pages, including color, font style, size, and alignment. CSS is a very powerful tool and learning to control textual data on a website is a great first step in harnessing that power.",
         "ratings": "4.6",
         "enrolled": "3390",
-        "level": "",
-        "time": ""
+        "level": "Beginner",
+        "time": "12",
+        "views": "12453"
     },
     {
         "id": "03",
@@ -29,8 +31,9 @@
         "description": "This Specialization is intended for the learner with no previous programming experience or the career changer transitioning to software development. JavaScript is generally the first programming language you will need to learn and this Specialization will help you practice and build your skills through a gentle progression of modules and courses. Learners will be able to follow along with the instructor and be able to apply and practice their learning through a series of low-stakes challenges and projects. Quizzes are the main assessment for this Specialization, along with Honor options in a couple of the courses.",
         "ratings": "4.7",
         "enrolled": "19586",
-        "level": "",
-        "time": ""
+        "level": "Beginner",
+        "time": "18",
+        "views": "34257"
     },
     {
         "id": "04",
@@ -40,8 +43,9 @@
         "description": "React is a powerful JavaScript library that you can use to build user interfaces for web and mobile applications (apps). In this course, you will explore the fundamental concepts that underpin the React library and learn the basic skills required to build a simple, fast, and scalable app.",
         "ratings": "4.7",
         "enrolled": "12211",
-        "level": "",
-        "time": ""
+        "level": "Intermediate",
+        "time": "15",
+        "views": "23876"
     },
     {
         "id": "05",
@@ -51,8 +55,9 @@
         "description": "This course will get you up and running with MongoDB quickly, and teach you how to leverage its power for data analytics. We'll start by mastering the fundamentals of MongoDB, including MongoDB's Document data model, importing data into a cluster, working with our CRUD API and Aggregation Framework. These topics will be taught through a demo application which will give you a great first encounter of how simple and practical it can be to build applications with MongoDB.In addition to these essential topics, you will also learn and work with useful MongoDB tools and services. You will work with Atlas, MongoDB's database as a service, MongoDB Compass, a schema visualization tool, as well as many other useful command-line utilities.",
         "ratings": "4.2",
         "enrolled": "56584",
-        "level": "",
-        "time": ""
+        "level": "Intermediate",
+        "time": "17",
+        "views": "32774"
     },
     {
         "id": "06",
@@ -62,7 +67,8 @@
         "description": "Have you ever wondered how you are able to do net banking or book a ticket online? Which technology is adopted for applications used in different businesses? Backend technology acts as a backbone to every web application. It typically includes all services, data interfaces and their core business logic. This course will introduce you to the Node.js environment and help you design and develop backend or server-side of the application. It also provides you with hands on coding exercises and will enable you to build JavaScript programs and test and execute them in the Node.js environment.",
         "ratings": "3.6",
         "enrolled": "1858",
-        "level": "",
-        "time": ""
+        "level": "Intermediate",
+        "time": "32",
+        "views": "16581"
     }
 ]
