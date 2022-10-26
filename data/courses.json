@@ -9,7 +9,8 @@
         "enrolled": "5321",
         "level": "Beginner",
         "time": "13",
-        "views": "361212"
+        "views": "361212",
+        "price": "32"
     },
     {
         "id": "02",
@@ -21,7 +22,8 @@
         "enrolled": "3390",
         "level": "Beginner",
         "time": "12",
-        "views": "12453"
+        "views": "12453",
+        "price": "28"
     },
     {
         "id": "03",
@@ -33,7 +35,8 @@
         "enrolled": "19586",
         "level": "Beginner",
         "time": "18",
-        "views": "34257"
+        "views": "34257",
+        "price": "45"
     },
     {
         "id": "04",
@@ -45,7 +48,8 @@
         "enrolled": "12211",
         "level": "Intermediate",
         "time": "15",
-        "views": "23876"
+        "views": "23876",
+        "price": "40"
     },
     {
         "id": "05",
@@ -57,7 +61,8 @@
         "enrolled": "56584",
         "level": "Intermediate",
         "time": "17",
-        "views": "32774"
+        "views": "32774",
+        "price": "35"
     },
     {
         "id": "06",
@@ -69,6 +74,7 @@
         "enrolled": "1858",
         "level": "Intermediate",
         "time": "32",
-        "views": "16581"
+        "views": "16581",
+        "price": "37"
     }
 ]
