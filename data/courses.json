@@ -76,5 +76,18 @@
         "time": "32",
         "views": "16581",
         "price": "37"
+    },
+    {
+        "id": "07",
+        "title": "Getting Started with Python",
+        "category": "Python",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovqvb5bDhAVKAKdkA5b_n6Z8f6IlGa2q_PA&usqp=CAU",
+        "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
+        "ratings": "4.8",
+        "enrolled": "2696045",
+        "level": "Beginner",
+        "time": "10",
+        "views": "2453686",
+        "price": "12"
     }
 ]

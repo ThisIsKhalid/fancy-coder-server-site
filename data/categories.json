@@ -40,5 +40,12 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbP5UGi3sayDIgT4p-MUwsXP4RkZ9_0z6eUA&usqp=CAU",
     "description": "Have you ever wondered how you are able to do net banking or book a ticket online? Which technology is adopted for applications used in different businesses? Backend technology acts as a backbone to every web application. It typically includes all services, data interfaces and their core business logic. This course will introduce you to the Node.js environment and help you design and develop backend or server-side of the application. It also provides you with hands on coding exercises and will enable you to build JavaScript programs and test and execute them in the Node.js environment.",
     "ratings": "3.6"
+  },
+  {
+    "id": "07",
+    "category": "Python",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovqvb5bDhAVKAKdkA5b_n6Z8f6IlGa2q_PA&usqp=CAU",
+    "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
+    "ratings": "4.8"
   }
 ]
